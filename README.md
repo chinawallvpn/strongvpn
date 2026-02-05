@@ -1,4 +1,4 @@
-# <p align="center">最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？（注意：支持支付宝付款）</p>
+# <p align="center">最新StrongVPN评测：StrongVPN怎么样？StrongVPN在中国还能用吗？StrongVPN连不上怎么办？</p>
 
 <p align="center">最近更新于：2026年2月5日</p>
 
