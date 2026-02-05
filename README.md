@@ -207,19 +207,19 @@ StrongVPN在支付方式上更加友好，特别是对中国用户而言。除�
 
 注册和订阅StrongVPN其实非常简单，但由于StrongVPN官网只有英文版本，担心国内网友可能英文不太熟练，接下来我们将手把手教大家如何注册和订阅StrongVPN。
 
-第一步：打开StrongVPN官网，点击"Start Now"按钮。
+* 第一步：打开<a href="https://wallvpn.com/go/strong-vpn/">StrongVPN官网</a>，点击"Start Now"按钮。
 
-•	StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">Strongvpn.com/</a>
+* 第二步：选择适合自己的付费套餐。
 
-第二步：选择适合自己的付费套餐。
+* 第三步：输入你的电子邮箱。
 
-第三步：输入你的电子邮箱。
+* 第四步：选择适合你的支付方式。
 
-第四步：选择支付方式。
+* 第五步：点击“Continue to Alipay”按钮。
 
-第五步：点击“Continue to Alipay”按钮。
+* 第六步：使用支付宝扫码完整支付。
 
-第六步：使用支付宝扫码完整支付。
+OK，在完成支付后，StrongVPN会向你填写的邮箱地址发送一封确认邮件，邮件中包含你的StrongVPN账号信息以及登录链接。如果在使用StrongVPN的过程中遇到问题，也可以随时联系StrongVPN的24小时在线客服获取帮助。
 
 ## StrongVPN下载安装教程
 
@@ -236,11 +236,9 @@ StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端�
 
 如果你使用的是安卓设备，那么只需打开Google Play，搜索"StrongVPN"，然后选择正确的客户端下载安装即可。
 
-如果你没有Google Play账号，可以通过"银河录像局"（注意：使用优惠码"ANYOFAI"可享九折优惠）购买一个，操作简单方便。
-
 三、如何下载StrongVPN iOS客户端？
 
-如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个美区Apple ID，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
+如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个<a href="https://wallvpn.com/apple-id/">美区Apple ID</a>，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
 
 ## StrongVPN钓鱼是真的吗？
 
