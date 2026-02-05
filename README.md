@@ -151,7 +151,7 @@ VPN工具早已超越了最初单纯的网络加密工具定位，现在它能�
 
 ## StrongVPN和ExpressVPN哪个好？
 
-StrongVPN和ExpressVPN作为行业内的佼佼者，各有优缺点。接下来我们将从翻墙稳定性、连接速度、安全性、解锁能力、兼容性、客户支持、价格以及支付方式等八个方面进行全面对比。你也可以通过《ExpressVPN怎么样》一文查看更多关于ExpressVPN的评测信息。
+StrongVPN和ExpressVPN作为行业内的佼佼者，各有优缺点。接下来我们将从翻墙稳定性、连接速度、安全性、解锁能力、兼容性、客户支持、价格以及支付方式等八个方面进行全面对比。你也可以通过《<a href="https://github.com/chinawallvpn/expressvpn">ExpressVPN怎么样</a>》一文查看更多关于ExpressVPN的评测信息。
 
 * 翻墙稳定性方面
 
