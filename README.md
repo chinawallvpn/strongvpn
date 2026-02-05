@@ -264,7 +264,7 @@ StrongVPN允许用户在一个账号下同时连接最多12台设备。这意味
 
 除了同时连接数量外，StrongVPN也支持几乎所有主流设备和平台。你可以在Windows、macOS、Linux、Android、iOS设备上使用StrongVPN的专属应用程序，这些应用界面友好且容易上手。此外，StrongVPN还支持路由器安装，这意味着你可以在家庭或办公室路由器上设置VPN，让所有连接到这个路由器的设备都能享受VPN保护。
 
-总的来说，StrongVPN绝对称得上是最好用的电脑VPN、安卓VPN、苹果VPN、路由器VPN！
+总的来说，StrongVPN绝对称得上是最好用的<a href="https://github.com/chinawallvpn/pc-vpn">电脑VPN</a>、<a href="https://github.com/chinawallvpn/android-vpn">安卓VPN</a>、<a href="https://github.com/chinawallvpn/router-vpn">路由器VPN</a>！
 
 ## StrongVPN怎么取消续订？
 
