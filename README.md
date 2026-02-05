@@ -238,7 +238,9 @@ StrongVPN为Windows、MacOS、Android、iOS等设备提供了专用APP客户端�
 
 三、如何下载StrongVPN iOS客户端？
 
-如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个<a href="https://wallvpn.com/apple-id/">美区Apple ID</a>，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
+如果你身处中国大陆，下载StrongVPN iOS客户端相对麻烦一些，因为中国区App Store已下架所有VPN相关软件。所以你需要先获取一个美区Apple ID，然后通过这个美区Apple ID下载StrongVPN iOS客户端。
+
+重要提示：如果你没有Google账号和美区Apple ID的话，可以参阅：<a href="https://wallvpn.com/apple-id/">美区苹果ID</a>
 
 ## StrongVPN钓鱼是真的吗？
 
