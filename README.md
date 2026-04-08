@@ -209,7 +209,7 @@ OK，大家只要提前搞清楚年付套餐和退款保障之间的对应关系
 
 ## 如何下载安装StrongVPN客户端？
 
-![StrongVPN下载安装教程](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.png)
+![StrongVPN下载安装教程](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E4%B8%8B%E8%BD%BD.png)
 
 大家购买完StrongVPN账号之后，接下来自然就是下载和安装StrongVPN APP客户端了。为了让新手朋友们更容易看明白，我直接按照大家常用的设备类型，把StrongVPN的安装步骤拆开来讲。这里需要特别强调一点，中国网络环境和海外普通地区的安装配置思路并不完全一样，大家一定要仔细看自己对应系统的具体操作方法。
 
