@@ -18,6 +18,8 @@
 
 ## StrongVPN怎么样？
 
+![StrongVPN怎么样](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E6%80%8E%E4%B9%88%E6%A0%B7.png)
+
 如果先说结论，我对StrongVPN的整体判断是：它不是那种翻墙穿透力最猛、连接速度最快的产品。但如果放在正规VPN阵营里看，它的综合素质绝对属于非常均衡的一档。StrongVPN的特点，并不是某一项数据特别夸张，而是该有的核心功能基本都有。
 
 作为一个1995年就已经上线的老牌服务，StrongVPN绝对算得上历史悠久。虽然它的服务器规模算不上全球顶级，但目前也在30多个国家拥有950多台服务器，对大多数普通用户来说已经完全够用了。日常使用中，最让人觉得实用的，其实是它的多设备兼容性。一个账号最多允许同时连接12台设备，这对于电脑、手机、平板和电视混合使用的同学来说，确实非常省心。
@@ -90,6 +92,8 @@ StrongVPN这组信息，其实向大家传达了两个关键点。第一，Stron
 
 ## StrongVPN速度怎么样？
 
+![](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E9%80%9F%E5%BA%A6%E6%80%8E%E4%B9%88%E6%A0%B7.png)
+
 其实，评测VPN软件的速度，最容易变成瞎扯。所以我建议大家别去看那些硬编出来的所谓下载测速数字，因为脱离具体环境的测速，往往没有太大实际意义。更靠谱的做法，是把VPN网速拆解到真实的日常使用场景里来看。
 
 第一层，是普通的日常网页浏览、刷社交媒体和常规办公。如果只是应付这种轻负载的使用需求，StrongVPN的表现完全够用。我们没必要把它神化，但在平时的文字和图片加载上，它肯定不至于卡到让你没法用的地步。
@@ -126,6 +130,8 @@ StrongVPN直接给了12个同时在线的名额，这就基本解决了多设备
 
 ## StrongVPN价格（含StrongVPN优惠券）
 
+![StrongVPN价格](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E4%BB%B7%E6%A0%BC.png)
+
 大家在最终决定是否要购买StrongVPN之前，最关心的肯定还是价格问题。目前StrongVPN官方页面上给出的资费标准非常透明，主要分为两个常规套餐。
 
 * 1个月套餐：11.99美元/月。
@@ -140,6 +146,8 @@ StrongVPN直接给了12个同时在线的名额，这就基本解决了多设备
 <p align="center"><a href="https://wallvpn.com/go/strong-vpn/">立即获取StrongVPN</a></p>
 
 ## StrongVPN支持支付宝付款吗？
+
+![StrongVPN支持支付宝付款吗](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E6%94%AF%E6%8C%81%E6%94%AF%E4%BB%98%E5%AE%9D%E4%BB%98%E6%AC%BE.png)
 
 这个问题对国内用户其实非常关键，因为很多人在打算购买海外翻墙软件时，都会默认只能刷外币信用卡。好消息是，StrongVPN完全支持支付宝付款。这一点对咱们国内用户非常友好，至少在付款这个环节，并不要求你必须提前准备一张国外信用卡。
 
@@ -196,6 +204,8 @@ StrongVPN官方支持的付款渠道比较全面，包括信用卡、PayPal和Al
 OK，大家只要提前搞清楚年付套餐和退款保障之间的对应关系，看清条款再下单，整个StrongVPN注册订阅流程其实也就是几分钟的事，整体上不会有什么门槛。
 
 ## StrongVPN下载安装教程
+
+![StrongVPN下载安装教程](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.png)
 
 大家购买完StrongVPN账号之后，接下来自然就是下载和安装StrongVPN APP客户端了。为了让新手朋友们更容易看明白，我直接按照大家常用的设备类型，把StrongVPN的安装步骤拆开来讲。这里需要特别强调一点，中国网络环境和海外普通地区的安装配置思路并不完全一样，大家一定要仔细看自己对应系统的具体操作方法。
 
