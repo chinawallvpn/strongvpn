@@ -181,7 +181,7 @@ StrongVPN直接给了12个同时在线的名额，这就基本解决了多设备
 
 大家看完前面的详细评测和对比之后，如果决定入手，接下来最重要的一步就是找对购买入口。大家平时在搜索引擎里找入口时，千万不要随便相信那些标着“StrongVPN中国官网”或者“StrongVPN中文镜像站”的第三方跳转网页。这类网页很多时候都是为了赚取差价，甚至骗取用户隐私信息的仿冒站点。
 
-* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">strongvpn.com/</a>
+* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">strongvpn.com</a>
 
 无论你是想查看StrongVPN最新的套餐价格，还是想联系客服解决网络排障问题，我都强烈建议大家直接从StrongVPN官方主站进入相关页面。只要你认准StrongVPN的官方域名，不被搜索结果里那些花里胡哨的“中文特供站”之类字眼带偏，基本就不会在购买这第一步踩坑。
 
@@ -203,7 +203,7 @@ StrongVPN官方支持的付款渠道比较全面，包括信用卡、PayPal和Al
 
 OK，大家只要提前搞清楚年付套餐和退款保障之间的对应关系，看清条款再下单，整个StrongVPN注册订阅流程其实也就是几分钟的事，整体上不会有什么门槛。
 
-## StrongVPN下载安装教程
+## 如何下载安装StrongVPN客户端？
 
 ![StrongVPN下载安装教程](https://raw.githubusercontent.com/chinawallvpn/strongvpn/refs/heads/main/image/StrongVPN%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.png)
 
