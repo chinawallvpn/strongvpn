@@ -181,7 +181,7 @@ StrongVPN直接给了12个同时在线的名额，这就基本解决了多设备
 
 大家看完前面的详细评测和对比之后，如果决定入手，接下来最重要的一步就是找对购买入口。大家平时在搜索引擎里找入口时，千万不要随便相信那些标着“StrongVPN中国官网”或者“StrongVPN中文镜像站”的第三方跳转网页。这类网页很多时候都是为了赚取差价，甚至骗取用户隐私信息的仿冒站点。
 
-* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">https://strongvpn.com/</a>
+* StrongVPN官网：<a href="https://wallvpn.com/go/strong-vpn/">strongvpn.com/</a>
 
 无论你是想查看StrongVPN最新的套餐价格，还是想联系客服解决网络排障问题，我都强烈建议大家直接从StrongVPN官方主站进入相关页面。只要你认准StrongVPN的官方域名，不被搜索结果里那些花里胡哨的“中文特供站”之类字眼带偏，基本就不会在购买这第一步踩坑。
 
